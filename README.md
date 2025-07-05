@@ -26,7 +26,7 @@ A robust and feature-rich e-commerce system built with C# and .NET 9.0, designed
 ### Installation & Running
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/omar-28-2/ECommerceSystem.git>
 cd ECommerceSystem
 
 # Build the project
