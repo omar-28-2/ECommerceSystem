@@ -1,8 +1,8 @@
 namespace ECOMMERCESYSTEM.Models{
-    public class AvilableProduct : Product, Shipped{
+    public class AvailableProduct : Product, Shipped{
         public double Weight { get;}
 
-        public AvilableProduct(string name, double price, int quantity, double weight)
+        public AvailableProduct(string name, double price, int quantity, double weight)
         : base(name, price, quantity)
         {
             Weight = weight;
