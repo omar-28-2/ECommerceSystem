@@ -148,12 +148,6 @@ The system includes comprehensive error handling for:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Omar** - *Initial work* - [omar-28-2]
-
----
-
 ⭐ **Star this repository if you find it helpful!**
 
 🔄 **Feel free to contribute and improve this e-commerce system!**
